@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as DevOps engineer ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. .
-    TO reach   My mail
+    TO reach me   My mail Id is
     
     sandeepkumaralguri@gmail.com
 <!---
