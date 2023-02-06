@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sandeep
-- 👀 I’m interested in learning new concepts
-- 🌱 I’m currently working as DevOps engineer ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as DevOps engineer in WalkingTree Technologies
 - 📫 How to reach me .. .
     TO reach me   My mail Id is
     
